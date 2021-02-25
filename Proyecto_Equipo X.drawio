@@ -1,21 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T18:22:55.653Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="MonqOEdxU8fxqv3MkWA2" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T01:48:21.267Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="ED5iiqzHZxXSeZlu27ZS" version="14.4.3" type="github">
   <diagram id="TSc8M2aQanpHi99RWJcm" name="Page-1">
-    <mxGraphModel dx="1386" dy="775" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1155" dy="646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v8qC128liEodUwgJ5zLA-8" value="IBM Cloud - Dalas" style="shape=mxgraph.ibm.box;prType=cloud;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="857" y="67" width="220" height="525" as="geometry" />
-        </mxCell>
-        <mxCell id="v8qC128liEodUwgJ5zLA-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v8qC128liEodUwgJ5zLA-8" source="v8qC128liEodUwgJ5zLA-55" target="v8qC128liEodUwgJ5zLA-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v8qC128liEodUwgJ5zLA-55" value="functions - aplicarPromoción &lt;br&gt;- node.js" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/openwhisk.svg;dashPattern=1 1;" parent="v8qC128liEodUwgJ5zLA-8" vertex="1">
-          <mxGeometry x="80" y="162" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v8qC128liEodUwgJ5zLA-58" value="cloudant - &lt;br&gt;Promociones&amp;nbsp;&amp;nbsp;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/cloudant.svg;dashPattern=1 1;" parent="v8qC128liEodUwgJ5zLA-8" vertex="1">
-          <mxGeometry x="80" y="340" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="v8qC128liEodUwgJ5zLA-15" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="185" y="39" width="660" height="817" as="geometry" />
         </mxCell>
@@ -117,6 +105,18 @@
         </mxCell>
         <mxCell id="v8qC128liEodUwgJ5zLA-50" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="108" y="246" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="v8qC128liEodUwgJ5zLA-8" value="IBM Cloud - Dalas" style="shape=mxgraph.ibm.box;prType=cloud;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
+          <mxGeometry x="865" y="66" width="220" height="525" as="geometry" />
+        </mxCell>
+        <mxCell id="v8qC128liEodUwgJ5zLA-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v8qC128liEodUwgJ5zLA-8" source="v8qC128liEodUwgJ5zLA-55" target="v8qC128liEodUwgJ5zLA-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8qC128liEodUwgJ5zLA-55" value="functions - aplicarPromoción &lt;br&gt;- node.js" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/openwhisk.svg;dashPattern=1 1;" parent="v8qC128liEodUwgJ5zLA-8" vertex="1">
+          <mxGeometry x="80" y="162" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8qC128liEodUwgJ5zLA-58" value="cloudant - &lt;br&gt;Promociones&amp;nbsp;&amp;nbsp;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/cloudant.svg;dashPattern=1 1;" parent="v8qC128liEodUwgJ5zLA-8" vertex="1">
+          <mxGeometry x="80" y="340" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8qC128liEodUwgJ5zLA-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v8qC128liEodUwgJ5zLA-43" target="v8qC128liEodUwgJ5zLA-55" edge="1">
           <mxGeometry relative="1" as="geometry">
